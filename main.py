@@ -5,4 +5,4 @@ def question1(a, n):
     print(f"Sum: {sum}")
 
 
-question1(3, 3)
+question1(4, 4)
